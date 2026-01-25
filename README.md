@@ -5,4 +5,4 @@ Awesome Awesomes
 
 [NodeBasedUIs](https://github.com/xyflow/awesome-node-based-uis)
 
-[Arch](https://github.com:Thalhalla/aweseome-arch)
+[Arch](https://github.com:Thalhalla/awesome-arch)
